@@ -1,0 +1,692 @@
+[{
+  "_id": 1,
+  "nome": "Barbaros",
+  "arena": 3,
+  "custoElixir": 5,
+  "tipo": "Tropa",
+  "evolucao": true,
+  "raridade": "Normal",
+  "status": {
+    "dano": 254,
+    "vida": 888,
+    "alvos": [
+      "Terrestre"
+    ],
+    "alcance": "Melee",
+    "danoPorSeg": 195,
+    "velocidade": "Media",
+    "quantidade": 5
+  },
+  "trofeus": 600
+},
+{
+  "_id": 2,
+  "nome": "Tesla",
+  "arena": 10,
+  "custoElixir": 4,
+  "tipo": "Construção",
+  "evolucao": false,
+  "raridade": "Normal",
+  "status": {
+    "dano": 278,
+    "vida": 1390,
+    "alvos": [
+      "Terrestre",
+      "Aereo"
+    ],
+    "alcance": "Ranged",
+    "danoPorSeg": 252,
+    "tempoEfeito": 30
+  },
+  "trofeus": 3000
+},
+{
+  "_id": 3,
+  "nome": "Cavaleiro",
+  "arena": 0,
+  "custoElixir": 3,
+  "tipo": "Tropa",
+  "evolucao": true,
+  "raridade": "Normal",
+  "status": {
+    "dano": 267,
+    "vida": 2339,
+    "alvos": [
+      "Terrestre"
+    ],
+    "alcance": "Melee",
+    "danoPorSeg": 222,
+    "velocidade": "Media",
+    "quantidade": 1
+  },
+  "trofeus": 0
+},
+{
+  "_id": 4,
+  "nome": "Zap",
+  "arena": 5,
+  "custoElixir": 2,
+  "tipo": "Feitiço",
+  "evolucao": false,
+  "raridade": "Normal",
+  "status": {
+    "dano": 254,
+    "paralisar": 0.5,
+    "alvos": [
+      "Terrestre",
+      "Aereo"
+    ],
+    "alcance": "Global",
+    "danoATorre": 77,
+    "area": 2.5
+  },
+  "trofeus": 1300
+},
+{
+  "_id": 5,
+  "nome": "Espirito de Fogo",
+  "arena": 4,
+  "custoElixir": 1,
+  "tipo": "Tropa",
+  "evolucao": false,
+  "raridade": "Normal",
+  "status": {
+    "dano": 274,
+    "vida": 305,
+    "alvos": [
+      "Terrestre",
+      "Aereo"
+    ],
+    "alcance": "Ranged",
+    "velocidade": "Muito Rapido"
+  },
+  "trofeus": 1000
+},
+{
+  "_id": 6,
+  "nome": "Barbaros de Elite",
+  "arena": 10,
+  "custoElixir": 6,
+  "tipo": "Tropa",
+  "evolucao": false,
+  "raridade": "Normal",
+  "status": {
+    "dano": 508,
+    "vida": 1776,
+    "alvos": [
+      "Terrestre"
+    ],
+    "alcance": "Melee",
+    "danoPorSeg": 362,
+    "velocidade": "Rapida",
+    "quantidade": 2
+  },
+  "trofeus": 3000
+},
+{
+  "_id": 7,
+  "nome": "Canhão",
+  "arena": 3,
+  "custoElixir": 3,
+  "tipo": "Construção",
+  "evolucao": false,
+  "raridade": "Normal",
+  "status": {
+    "dano": 281,
+    "vida": 1091,
+    "alvos": [
+      "Terrestre"
+    ],
+    "alcance": "Ranged",
+    "danoPorSeg": 281,
+    "tempoEfeito": 30
+  },
+  "trofeus": 600
+},
+{
+  "_id": 8,
+  "nome": "Morteiro",
+  "arena": 5,
+  "custoElixir": 4,
+  "tipo": "Construção",
+  "evolucao": true,
+  "raridade": "Normal",
+  "status": {
+    "dano": 352,
+    "vida": 1813,
+    "alvos": [
+      "Terrestre"
+    ],
+    "alcance": "Ranged",
+    "danoPorSeg": 70,
+    "tempoEfeito": 30
+  },
+  "trofeus": 1300
+},
+{
+  "_id": 9,
+  "nome": "Mago",
+  "arena": 4,
+  "custoElixir": 5,
+  "tipo": "Tropa",
+  "evolucao": false,
+  "raridade": "Rara",
+  "status": {
+    "dano": 373,
+    "vida": 955,
+    "alvos": [
+      "Terrestre",
+      "Aereo"
+    ],
+    "alcance": "Ranged",
+    "danoPorSeg": 265,
+    "velocidade": "Media",
+    "quantidade": 1
+  },
+  "trofeus": 1000
+},
+{
+  "_id": 10,
+  "nome": "Corredor",
+  "arena": 5,
+  "custoElixir": 4,
+  "tipo": "Tropa",
+  "evolucao": false,
+  "raridade": "Rara",
+  "status": {
+    "dano": 421,
+    "vida": 2248,
+    "alvos": [
+      "Contruções"
+    ],
+    "alcance": "Melee",
+    "danoPorSeg": 263,
+    "velocidade": "Muito Rapido",
+    "quantidade": 1
+  },
+  "trofeus": 1300
+},
+{
+  "_id": 11,
+  "nome": "Valkiria",
+  "arena": 2,
+  "custoElixir": 4,
+  "tipo": "Tropa",
+  "evolucao": false,
+  "raridade": "Rara",
+  "status": {
+    "dano": 354,
+    "vida": 2529,
+    "alvos": [
+      "Terrestre"
+    ],
+    "alcance": "Melee",
+    "danoPorSeg": 236,
+    "velocidade": "Media",
+    "quantidade": 1
+  },
+  "trofeus": 300
+},
+{
+  "_id": 12,
+  "nome": "Goblin com Dardo",
+  "arena": 9,
+  "custoElixir": 3,
+  "tipo": "Tropa",
+  "evolucao": false,
+  "raridade": "Rara",
+  "status": {
+    "dano": 174,
+    "vida": 345,
+    "alvos": [
+      "Terrestre",
+      "Aereo"
+    ],
+    "alcance": "Ranged",
+    "danoPorSeg": 248,
+    "velocidade": "Muito Rapido",
+    "quantidade": 1
+  },
+  "trofeus": 2600
+},
+{
+  "_id": 13,
+  "nome": "Megasservo",
+  "arena": 3,
+  "custoElixir": 3,
+  "tipo": "Tropa",
+  "evolucao": false,
+  "raridade": "Rara",
+  "status": {
+    "dano": 413,
+    "vida": 1109,
+    "alvos": [
+      "Terrestre",
+      "Aereo"
+    ],
+    "alcance": "Melee",
+    "danoPorSeg": 275,
+    "velocidade": "Media",
+    "quantidade": 1
+  },
+  "trofeus": 600
+},
+{
+  "_id": 14,
+  "nome": "Bola de Fogo",
+  "arena": 0,
+  "custoElixir": 4,
+  "tipo": "Feitiço",
+  "evolucao": false,
+  "raridade": "Rara",
+  "status": {
+    "dano": 913,
+    "danoATorre": 273,
+    "alvos": [
+      "Terrestre",
+      "Aereo"
+    ],
+    "alcance": "Global",
+    "area": 2.5
+  },
+  "trofeus": 0
+},
+{
+  "_id": 15,
+  "nome": "Golem de Elixir",
+  "arena": 14,
+  "custoElixir": 3,
+  "tipo": "Tropa",
+  "evolucao": false,
+  "raridade": "Rara",
+  "status": {
+    "dano": 337,
+    "vida": 2079,
+    "alvos": [
+      "Contruções"
+    ],
+    "alcance": "Melee",
+    "danoPorSeg": 259,
+    "velocidade": "Lenta",
+    "quantidade": 1
+  },
+  "trofeus": 4600
+},
+{
+  "_id": 16,
+  "nome": "Fornalha",
+  "arena": 10,
+  "custoElixir": 4,
+  "tipo": "Construção",
+  "evolucao": false,
+  "raridade": "Rara",
+  "status": {
+    "dano": 337,
+    "vida": 1124,
+    "alvos": [
+      "Terrestre",
+      "Aereo"
+    ],
+    "tempoDeEfeito": 28,
+    "velDeGeracao": 5,
+    "gera": "Espirito de Fogo"
+  },
+  "trofeus": 3000
+},
+{
+  "_id": 17,
+  "nome": "Furia",
+  "arena": 14,
+  "custoElixir": 4,
+  "tipo": "Feitiço",
+  "evolucao": false,
+  "raridade": "Epica",
+  "status": {
+    "dano": 254,
+    "danoATorre": 77,
+    "alvos": [
+      "Terrestre",
+      "Aereo"
+    ],
+    "alcance": "Global",
+    "tempoDeEfeito": 6,
+    "raio": 3
+  },
+  "trofeus": 4600
+},
+{
+  "_id": 18,
+  "nome": "Balão",
+  "arena": 7,
+  "custoElixir": 5,
+  "tipo": "Tropa",
+  "evolucao": false,
+  "raridade": "Epica",
+  "status": {
+    "dano": 848,
+    "vida": 2226,
+    "alvos": [
+      "Construções"
+    ],
+    "alcance": "Melee",
+    "danoPorSeg": 424,
+    "velocidade": "Media",
+    "danoPorMorte": 318,
+    "quantidade": 1
+  },
+  "trofeus": 2000
+},
+{
+  "_id": 19,
+  "nome": "Exercito de Esqueletos",
+  "arena": 6,
+  "custoElixir": 3,
+  "tipo": "Tropa",
+  "evolucao": false,
+  "raridade": "Epica",
+  "status": {
+    "dano": 108,
+    "vida": 108,
+    "alvos": [
+      "Terrestre"
+    ],
+    "alcance": "Melee",
+    "danoPorSeg": 108,
+    "velocidade": "Rapida",
+    "quantidade": 15
+  },
+  "trofeus": 1600
+},
+{
+  "_id": 20,
+  "nome": "Veneno",
+  "arena": 9,
+  "custoElixir": 4,
+  "tipo": "Feitiço",
+  "evolucao": false,
+  "raridade": "Epica",
+  "status": {
+    "dano": 960,
+    "danoATorre": 288,
+    "alvos": [
+      "Terrestre",
+      "Aereo"
+    ],
+    "alcance": "Global",
+    "danoPorSeg": 120,
+    "tempoDeEfeito": 8,
+    "raio": 3.5
+  },
+  "trofeus": 2600
+},
+{
+  "_id": 21,
+  "nome": "Bruxa",
+  "arena": 6,
+  "custoElixir": 5,
+  "tipo": "Tropa",
+  "evolucao": false,
+  "raridade": "Epica",
+  "status": {
+    "dano": 178,
+    "vida": 1110,
+    "alvos": [
+      "Terrestre",
+      "Aereo"
+    ],
+    "alcance": "Ranged",
+    "danoPorSeg": 161,
+    "velocidade": "Media",
+    "quantidade": 1,
+    "gera": "Esqueletos",
+    "velDeGeracao": 7
+  },
+  "trofeus": 1600
+},
+{
+  "_id": 22,
+  "nome": "Gigante Eletrico",
+  "arena": 13,
+  "custoElixir": 7,
+  "tipo": "Tropa",
+  "evolucao": false,
+  "raridade": "Epica",
+  "status": {
+    "dano": 216,
+    "vida": 5109,
+    "alvos": [
+      "Construções"
+    ],
+    "alcance": "Melee",
+    "danoPorSeg": 102,
+    "danoRefletido": 254,
+    "danoRefletidoATorre": 169,
+    "velocidade": "Lenta",
+    "quantidade": 1,
+    "paralisar": 0.5
+  },
+  "trofeus": 4200
+},
+{
+  "_id": 23,
+  "nome": "Caçador",
+  "arena": 10,
+  "custoElixir": 4,
+  "tipo": "Tropa",
+  "evolucao": false,
+  "raridade": "Epica",
+  "status": {
+    "dano": 1120,
+    "vida": 1110,
+    "alvos": [
+      "Terrestre",
+      "Aereo"
+    ],
+    "alcance": "Ranged",
+    "danoPorSeg": 500,
+    "velocidade": "Media",
+    "quantidade": 1,
+    "quantidadeBalas": 10
+  },
+  "trofeus": 3000
+},
+{
+  "_id": 24,
+  "nome": "Guardas",
+  "arena": 6,
+  "custoElixir": 3,
+  "tipo": "Tropa",
+  "evolucao": false,
+  "raridade": "Epica",
+  "status": {
+    "dano": 161,
+    "vida": 108,
+    "vidaEscudo": 318,
+    "alvos": [
+      "Terrestre"
+    ],
+    "alcance": "Melee",
+    "danoPorSeg": 161,
+    "velocidade": "Rapido",
+    "quantidade": 3
+  },
+  "trofeus": 1600
+},
+{
+  "_id": 25,
+  "nome": "Tronco",
+  "arena": 11,
+  "custoElixir": 2,
+  "tipo": "Feitiço",
+  "evolucao": false,
+  "raridade": "Lendaria",
+  "status": {
+    "dano": 384,
+    "danoATorre": 77,
+    "alvos": [
+      "Terrestre"
+    ],
+    "alcance": "MeioGlobal",
+    "largura": 3.9
+  },
+  "trofeus": 3400
+},
+{
+  "_id": 26,
+  "nome": "Lava Hound",
+  "arena": 13,
+  "custoElixir": 7,
+  "tipo": "Tropa",
+  "evolucao": false,
+  "raridade": "Lendaria",
+  "status": {
+    "dano": 79,
+    "vida": 5209,
+    "alvos": [
+      "Construções"
+    ],
+    "alcance": "Melee",
+    "danoPorSeg": 60,
+    "velocidade": "Lenta",
+    "quantidade": 1,
+    "gera": "Lava Pups"
+  },
+  "trofeus": 4200
+},
+{
+  "_id": 27,
+  "nome": "Pescador",
+  "arena": 15,
+  "custoElixir": 3,
+  "tipo": "Tropa",
+  "evolucao": false,
+  "raridade": "Lendaria",
+  "status": {
+    "dano": 256,
+    "vida": 1152,
+    "alvos": [
+      "Terrestre"
+    ],
+    "alcance": "Melee",
+    "danoPorSeg": 196,
+    "velocidade": "Media",
+    "quantidade": 1
+  },
+  "trofeus": 5000
+},
+{
+  "_id": 28,
+  "nome": "Mago Eletrico",
+  "arena": 11,
+  "custoElixir": 4,
+  "tipo": "Tropa",
+  "evolucao": false,
+  "raridade": "Lendaria",
+  "status": {
+    "dano": 290,
+    "vida": 944,
+    "alvos": [
+      "Terrestre",
+      "Aereo"
+    ],
+    "alcance": "Ranged",
+    "danoPorSeg": 196,
+    "velocidade": "Rapido",
+    "quantidade": 1,
+    "danoAoSerColocado": 254,
+    "paralisar": 0.5
+  },
+  "trofeus": 3400
+},
+{
+  "_id": 29,
+  "nome": "Mago de Gelo",
+  "arena": 12,
+  "custoElixir": 3,
+  "tipo": "Tropa",
+  "evolucao": false,
+  "raridade": "Lendaria",
+  "status": {
+    "dano": 120,
+    "vida": 910,
+    "alvos": [
+      "Terrestre",
+      "Aereo"
+    ],
+    "alcance": "Ranged",
+    "danoPorSeg": 70,
+    "velocidade": "Media",
+    "quantidade": 1,
+    "danoAoSerColocado": 111,
+    "lentidao": 0.35,
+    "duracaoLentidao": 2.5
+  },
+  "trofeus": 3800
+},
+{
+  "_id": 30,
+  "nome": "Fenix",
+  "arena": 12,
+  "custoElixir": 4,
+  "tipo": "Tropa",
+  "evolucao": false,
+  "raridade": "Lendaria",
+  "status": {
+    "dano": 288,
+    "vida": 1392,
+    "alvos": [
+      "Terrestre",
+      "Aereo"
+    ],
+    "alcance": "Melee",
+    "danoPorSeg": 288,
+    "velocidade": "Media",
+    "quantidade": 1,
+    "danoPorMorte": 216,
+    "vidaOvo": 316
+  },
+  "trofeus": 3800
+},
+{
+  "_id": 31,
+  "nome": "Princesa",
+  "arena": 11,
+  "custoElixir": 3,
+  "tipo": "Tropa",
+  "evolucao": false,
+  "raridade": "Lendaria",
+  "status": {
+    "dano": 224,
+    "vida": 345,
+    "alvos": [
+      "Terrestre",
+      "Aereo"
+    ],
+    "alcance": "Ranged",
+    "danoPorSeg": 74,
+    "velocidade": "Media",
+    "quantidade": 1
+  },
+  "trofeus": 3400
+},
+{
+  "_id": 32,
+  "nome": "Sparky",
+  "arena": 11,
+  "custoElixir": 6,
+  "tipo": "Tropa",
+  "evolucao": false,
+  "raridade": "Lendaria",
+  "status": {
+    "dano": 1760,
+    "vida": 1920,
+    "alvos": [
+      "Terrestre"
+    ],
+    "alcance": "Ranged",
+    "danoPorSeg": 439,
+    "velocidade": "Lenta",
+    "quantidade": 1
+  },
+  "trofeus": 3400
+}]
